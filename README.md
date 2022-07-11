@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- - 📝 I regularly write articles on [manisha-nair.medium.com](manisha-nair.medium.com) -->
 
-- 📫 How to reach me **manishanairnair@gmail.com**
+- 📫 How to reach me **manishanairnair2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
