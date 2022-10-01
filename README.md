@@ -3,6 +3,7 @@ maneesha-28/maneesha-28 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!-- <h1 align="center">Hi 👋, I'm Manisha Nair</h1> -->
+[![@manishaa_nair_'s Holopin board](https://holopin.io/api/user/board?user=manishaa_nair_)](https://holopin.io/@manishaa_nair_)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='IBM+Plex+Sans'%2C+sans-serif;&size=38&duration=6000&color=36BBF6&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Manisha+Nair)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate full stack developer and an open source enthusiast</h3> 
