@@ -36,4 +36,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Manisha Nair's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneesha-28&show_icons=true&theme=algolia)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneesha-28&" alt="maneesha-28" /></p>
+
