@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **JavaScript and React.**
 
-- 👯 I’m looking to collaborate on **Web Development and Machine Learning Projects.**
+- 👯 I’m looking to collaborate on **Web Development and Blockchain Projects.**
 
 <!-- - 📝 I regularly write articles on [manisha-nair.medium.com](manisha-nair.medium.com) -->
 
