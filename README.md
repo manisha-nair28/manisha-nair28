@@ -72,3 +72,4 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Stats</h3>
 
 [![manisha28's GitHub stats](https://stats.quine.sh/manisha28/github)](https://quine.sh)
+[![manisha28's Web3 | Identity](https://stats.quine.sh/manisha28/web3?theme=dark)](https://quine.sh)
