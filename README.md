@@ -60,6 +60,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maneesha-28&show_icons=true&locale=en&layout=compact" alt="maneesha-28" />
 </p>
