@@ -59,17 +59,18 @@ You can click the Preview link to take a look at your changes.
             <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maneesha-28&show_icons=true&locale=en&layout=compact" alt="maneesha-28" />
+</p>
 
-#### :books: Recent Blog Posts
+
+### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [Exploring the Depreciation of Goerli Testnet and the Shift to Sepolia Testnet: A Comprehensive Guide](https://manishaa28.hashnode.dev/exploring-the-depreciation-of-goerli-testnet-and-the-shift-to-sepolia-testnet-a-comprehensive-guide)
  - 💫 [Understanding the Different Types of Open Source Licenses: A Guide for Developers and Users](https://manishaa28.hashnode.dev/understanding-the-different-types-of-open-source-licenses-a-guide-for-developers-and-users)
  - 💫 [JavaScript for Beginners: A Gentle Introduction](https://manishaa28.hashnode.dev/javascript-for-beginners-a-gentle-introduction)
  - 🚀 [Dev Retro 2022: Thoughts on My Journey as a Student Developer](https://manishaa28.hashnode.dev/dev-retro-2022-thoughts-on-my-journey-as-a-student-developer)<!-- BLOGPOSTS:END -->
 
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maneesha-28&show_icons=true&locale=en&layout=compact" alt="maneesha-28" />
-</p>
 
 
 <h3 align="left">Badges</h3>
