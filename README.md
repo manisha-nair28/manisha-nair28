@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesha-28&label=Profile%20views&color=0e75b6&style=flat" alt="maneesha-28" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React.**
+- 🌱 I’m currently learning **Java and Node js.**
 
-- 👯 I’m looking to collaborate on **Web Development and Blockchain Projects.**
+- 👯 I’m looking to collaborate on **Web and Backend Projects.**
 
-- 📝 I write articles on **[HashNode](https://manishaa28.hashnode.dev/)**.
+- 📝 I write articles on **[HashNode](https://manishaa28.hashnode.dev/)** and **[Medium](https://medium.com/@manisha-nair)**.
 
 - 📫 How to reach me **manishanairnair2002@gmail.com**
 
@@ -30,15 +30,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/Nisha_ya_">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-   <a href="https://www.linkedin.com/in/manisha-nair-276a1a214/">
+   <a href="https://www.linkedin.com/in/manisha-nair28">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://replit.com/@28ManishaNair">
-    <img src="https://skillicons.dev/icons?i=replit" />
-  </a>
-  <a href="https://codepen.io/maneesha-28">
-    <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
+   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,9 +53,7 @@ You can click the Preview link to take a look at your changes.
             <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maneesha-28&show_icons=true&locale=en&layout=compact" alt="maneesha-28" />
-</p>
+
 
 
 ### :books: Recent Blog Posts
@@ -81,4 +73,3 @@ You can click the Preview link to take a look at your changes.
 
 [![manisha28's GitHub | Stats](https://stats.quine.sh/manisha28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manisha28)
 [![manisha28's GitHub | Topics](https://stats.quine.sh/manisha28/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manisha28)
-[![manisha28's Web3 | Identity](https://stats.quine.sh/manisha28/web3?theme=dark)](https://quine.sh)
