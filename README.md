@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesha-28&label=Profile%20views&color=0e75b6&style=flat" alt="maneesha-28" /> </p>
 
-- 🌱 I’m currently learning **Java and Node js.**
+- 🌱 I’m currently learning **Python and ML.**
 
-- 👯 I’m looking to collaborate on **Web and Backend Projects.**
+- 👯 I’m looking to collaborate on **Challenging Projects.**
 
 - 📝 I write articles on **[HashNode](https://manishaa28.hashnode.dev/)** and **[Medium](https://medium.com/@manisha-nair)**.
 
