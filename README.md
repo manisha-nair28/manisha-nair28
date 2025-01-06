@@ -27,9 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p >
-  <a href="https://twitter.com/Nisha_ya_">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
    <a href="https://www.linkedin.com/in/manisha-nair28">
     <img src="https://skillicons.dev/icons?i=linkedin" />
    </a>
