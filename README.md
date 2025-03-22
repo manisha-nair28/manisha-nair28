@@ -66,7 +66,4 @@ You can click the Preview link to take a look at your changes.
 
 [![@manishaa_nair_'s Holopin board](https://holopin.io/api/user/board?user=manishaa_nair_)](https://holopin.io/@manishaa_nair_)
 
-<h3 align="left">Stats</h3>
 
-[![manisha28's GitHub | Stats](https://stats.quine.sh/manisha28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manisha28)
-[![manisha28's GitHub | Topics](https://stats.quine.sh/manisha28/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manisha28)
