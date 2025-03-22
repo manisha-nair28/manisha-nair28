@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
             
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='IBM+Plex+Sans'%2C+sans-serif;&size=38&duration=6000&color=36BBF6&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Manisha+Nair)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='IBM+Plex+Sans'%2C+sans-serif;&size=38&duration=6000&color=36BBF6&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Manisha)](https://git.io/typing-svg)
 
  </div> 
 <h3 align="center">Backend dev & open source enthusiast</h3> 
