@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesha-28&label=Profile%20views&color=0e75b6&style=flat" alt="maneesha-28" /> </p>
 
-- 🌱 I’m currently learning **Python and ML.**
+- 🌱 I’m currently learning **Python and Go Lang.**
 
 - 👯 I’m looking to collaborate on **Challenging Projects.**
 
